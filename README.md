@@ -18,6 +18,7 @@ To compile and run this project, you will need:
 * the NASM assembler
 * the GNU linker
 * a Linux x64 operating system
+* GNU make
 
 #### Implementation notes
 
